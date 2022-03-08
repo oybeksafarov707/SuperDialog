@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SuperDialog.iml" filepath="$PROJECT_DIR$/.idea/modules/SuperDialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Dialog/SuperDialog.Dialog.iml" filepath="$PROJECT_DIR$/.idea/modules/Dialog/SuperDialog.Dialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Library/SuperDialog.Library.iml" filepath="$PROJECT_DIR$/.idea/modules/Library/SuperDialog.Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SuperDialog.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SuperDialog.app.iml" />
+    </modules>
+  </component>
+</project>
